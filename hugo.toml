@@ -1,0 +1,4 @@
+baseURL = 'https://contemplativeorthodoxy.github.io/'
+languageCode = 'en-us'
+title = 'Contemplative Orthodoxy'
+theme = 'hugo-bearblog'
